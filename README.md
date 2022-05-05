@@ -45,7 +45,7 @@ Loop 5 (lw x5, 0(x0))
 
 ![alt text](https://github.com/baxtrax/RISC-V_CPU/blob/main/Images/FINALLoop5.png?raw=true)
 
-beq x4, x5, 8
+Loop 6 (beq x4, x5, 8)
 
 ![alt text](https://github.com/baxtrax/RISC-V_CPU/blob/main/Images/FINALLoop6.png?raw=true)
 
